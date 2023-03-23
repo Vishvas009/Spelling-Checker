@@ -1,2 +1,2 @@
 # Spelling-Checker
-I am created a spelling checker application used python
+I created a simple spelling checker application in python
